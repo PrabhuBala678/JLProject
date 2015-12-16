@@ -24,7 +24,7 @@ import java.net.URL;
 tags = {"@Smoke,@Temp"}
 )
 public class RunTest{
-    //comment added
+
     static WebDriver driver;
     public static boolean initialiseOnce = false;
     public static CreatePrettyReport pr = null;
